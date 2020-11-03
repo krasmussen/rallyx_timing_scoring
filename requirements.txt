@@ -1,0 +1,6 @@
+Flask
+PySerial
+uWSGI
+APSW
+jinja2
+markdown
